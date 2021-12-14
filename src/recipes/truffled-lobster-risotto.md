@@ -26,6 +26,11 @@ ingredients:
 Preheat oven to 425F or 218°C.
 
 ## Prepare Lobster
+
+### Anethesized Lobster
+
+### Boil Lobster
+
 Cook lobster in a large pot of simmering salted water until cooked through, about 10 minutes.
 
 Transfer lobster to a bowl of cold water to cool. Drain Lobster.
